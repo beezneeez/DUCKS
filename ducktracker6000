@@ -1,0 +1,6 @@
+public class Ducks {
+  public static void main(String[] args) {
+    // displays "Quackening detected" for no reason
+    System.out.println("Quackening detected");
+  }
+}
